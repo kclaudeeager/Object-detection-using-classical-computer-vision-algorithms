@@ -1,0 +1,8 @@
+opencv-python==4.5.5.64
+numpy==2.1.2
+python-dotenv
+Pillow
+pyyaml
+scipy
+opencv-contrib-python
+matplotlib

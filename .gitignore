@@ -1,0 +1,7 @@
+.vscode
+assets/*.jpg
+venv
+.idea
+.venv
+/*.pyc
+__pycache__/
